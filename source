@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Icy's Mods!", HidePremium = false , SaveConfig = true, introEnabled = true, introText = "HACKER"})
+local Window = OrionLib:MakeWindow({Name = "Avexy Hub", HidePremium = false , SaveConfig = true, introEnabled = true, introText = "Avexy Hub"})
 
 -- Tabs
 
